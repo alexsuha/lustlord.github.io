@@ -1,13 +1,13 @@
 (function(){
 
-    var API_KEY = 'YOUR_API_KEY';
+    var API_KEY = 'mhVPwt0ATQ-6ADG0yPIRAw';
 
     /**
      * NEVER PUT YOUR ACTUAL API SECRET IN CLIENT SIDE CODE, THIS IS JUST FOR QUICK PROTOTYPING
      * The below generateSignature should be done server side as not to expose your api secret in public
      * You can find an eaxmple in PHP here: https://gist.github.com/joshuawoodward/7574df3df9a089e2663582a2cf9f188b
      */
-    var API_SECRET = 'YOUR_API_SECRET';
+    var API_SECRET = 'iQSF2m0548ufMHxpH9vz95rUJgQeTfeHj0J4';
 
     document.getElementById('join_meeting').addEventListener('click', function(e){
 

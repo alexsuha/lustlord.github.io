@@ -7,7 +7,7 @@
      * The below generateSignature should be done server side as not to expose your api secret in public
      * You can find an eaxmple in PHP here: https://gist.github.com/joshuawoodward/7574df3df9a089e2663582a2cf9f188b
      */
-    var API_SECRET = 'iQSF2m0548ufMHxpH9vz95rUJgQeTfeHj0J4';
+    var API_SECRET = 'ZWZwVe5vvRs2jE863Q67VzLRsOfMoPsaTCCq';
 
     document.getElementById('join_meeting').addEventListener('click', function(e){
 
